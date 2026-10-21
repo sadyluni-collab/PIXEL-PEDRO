@@ -1,18 +1,12 @@
-
 {
   "expo": {
-    "name": "Pixel Art",
-    "slug": "pixel-art",
+    "name": "Pixel",
+    "slug": "pixel",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "splash": {
-      "backgroundColor": "#10111B"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {},
-    "web": {}
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
